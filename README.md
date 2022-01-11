@@ -1,4 +1,4 @@
-# mini-project-III
+# mini-project-III (Group Project with Nabin zubedi and Ying Zhuo)
 Repo with the instructions for the Mini Project III.
 
 
